@@ -6,4 +6,5 @@ This is work in progress
 
 
 Disclaimer:
+
 *[Latent diffusion image source](https://towardsdatascience.com/what-are-stable-diffusion-models-and-why-are-they-a-step-forward-for-image-generation-aa1182801d46)
